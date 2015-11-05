@@ -1,0 +1,23 @@
+name: Dummy Site
+favicon: null
+layout_spectrum: 0.00993321556597948
+typography_spectrum: 0.3205249682068825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9598650638945401
+  lightness: 0.5446857034694403
+  saturation: 0.524477346567437
+  rhythmicContrast: 0.8974352488294244
+purpose: []
