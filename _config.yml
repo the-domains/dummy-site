@@ -1,6 +1,6 @@
 name: Dummy Site
 favicon: null
-layout_spectrum: 0.00993321556597948
+layout_spectrum: 1
 typography_spectrum: 0.3205249682068825
 cta:
   domain: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#7a7a7a'
+    - '#969696'
+    - '#bbbbbb'
+    - '#535353'
+    - '#e8e8e8'
   brandStrength: 0.9598650638945401
-  lightness: 0.5446857034694403
-  saturation: 0.524477346567437
-  rhythmicContrast: 0.8974352488294244
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
